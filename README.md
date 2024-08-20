@@ -36,3 +36,6 @@ To run the tests please have a look at the [unit test documentation](https://www
 ## License
 
 The code is licensed under LGPL-3.0
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Battery voltage Compensate

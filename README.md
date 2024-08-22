@@ -39,3 +39,5 @@ The code is licensed under LGPL-3.0
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Battery voltage Compensate
+
+Roll, Pitch, and Yaw adjustments for thrust measurement test

@@ -55,7 +55,7 @@
 #endif
 #ifndef CF_MASS
     // kg
-    #define CF_MASS     0.027f
+    #define CF_MASS     0.040f
 #endif
 
 // IMU alignment on the airframe 
